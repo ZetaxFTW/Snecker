@@ -1,0 +1,14 @@
+{
+  "name": "sniggers-bot",
+  "version": "1.0.0",
+  "description": "Ein bot für den Sniggers server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aoi.js": "^5.0.8"
+  }
+}
